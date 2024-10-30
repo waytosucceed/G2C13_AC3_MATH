@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Ms. Harper is finding the left sandwiches. Help her by filling in the  answer in the empty box.",
+    "options":[""],
+    "answers": ["3"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Ms. Harper needs to know how many juice boxes are still there.<BR>Fill in the answer in the empty box.",
+    "options":[""],
+    "answers": ["6"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Ms. Harper is counting the remaining cookies. Fill the answer in the empty box. ",
+    "options":[""],
+    "answers": ["10"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Ms. Harper wants to find out how many cupcakes are still left on the table.",
+    "options":[""],
+    "answers": ["9"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Ms. Harper is checking how many granola bars are left . Fill in the correct answer in the box.",
+    "options":[""],
+    "answers": ["4"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Ms. Harper wants to find out how many apples are still left on the table.",
+    "options":[""],
+    "answers": ["4"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Ms. Harper is examining the left bags of chips.Fill in the correct answer in the box. ",
+    "options":[""],
+    "answers": ["12"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": " She is examining the left Pepsi cans. Fill in the correct answer in the box.",
+    "options":[""],
+    "answers": ["9"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Ms. Harper is examining the left brownies. Fill in the correct answer in the box.",
+    "options":[""],
+    "answers": ["6"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Fill in the correct answer in the box to help her in finding the left candies.",
+    "options":[""],
+    "answers": ["16"],
+    "secondImg":"./images/10.jpg"
+  }
+]
